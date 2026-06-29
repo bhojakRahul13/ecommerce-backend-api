@@ -1,0 +1,11 @@
+NODE_ENV = development
+PORT = 3000
+DB_HOST = localhost
+DB_USER = root
+DB_PASS = ""
+DB_NAME = ecommerce
+DB_PORT = 3306
+JWT_SECRET = your_secret
+JWT_EXPIRES_IN=""
+STRIPE_SECRET_KEY=""
+CLIENT_URL=""
